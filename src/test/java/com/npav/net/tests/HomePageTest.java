@@ -20,7 +20,7 @@ public class HomePageTest extends BaseTest {
 
     @Test
     public void verifyHomePageTitle() {
-        log.info("===== Starting verifyHomePageTitle Test =====");
+        log.info("==== Starting verifyHomePageTitle Test =====");
         TestListener.getTest().log(Status.INFO, "Navigating to Home Page");
 
         homePage = new HomePage(driver);
