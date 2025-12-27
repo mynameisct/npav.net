@@ -62,4 +62,14 @@ public class HomePageTest extends BaseTest {
         TestListener.getTest().log(Status.INFO, "===== Completed verifyCurrentUrl Test =====");
     }
 
+    @Test
+    public void verifyClickOnBrandIcon()
+    {
+        homePage = new HomePage(driver);
+        homePage.clickBrandIcon();
+       String pageTitleAfterRedirection = homePage.getPageTitle();
+        Assert.assertTrue(pageTitleAfterRedirection.contains("Best Antivirus for Your PC"),
+                "Title did not contain expected text");
+    }
+
 }

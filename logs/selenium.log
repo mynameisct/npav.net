@@ -60,3 +60,59 @@
 2025-12-23 22:04:45 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
 2025-12-23 22:04:45 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
 2025-12-23 22:04:45 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:13:41 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:16:41 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:20:25 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:22:21 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:23:53 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:24:49 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - ===== Starting verifyCurrentUrl Test =====
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - Fetched current URL: https://npav.net/
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Current URL matched expected value
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyCurrentUrl Test =====
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - ==== Starting verifyHomePageTitle Test =====
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - Fetched page title: Best Antivirus for Your PC | Net Protector Antivirus
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - Assertion passed: Title contains expected text
+2025-12-28 00:25:17 INFO  com.npav.net.tests.HomePageTest - ===== Completed verifyHomePageTitle Test =====
