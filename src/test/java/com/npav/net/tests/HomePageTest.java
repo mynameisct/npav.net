@@ -63,13 +63,21 @@ public class HomePageTest extends BaseTest {
     }
 
     @Test
-    public void verifyClickOnBrandIcon()
-    {
+    public void verifyClickOnBrandIcon() {
+        log.info("===== Starting verifyClickOnBrandIcon Test =====");
+
         homePage = new HomePage(driver);
+        log.debug("HomePage object initialized with driver instance");
+        TestListener.getTest().log(Status.INFO, "HomePage object initialized with driver instance");
         homePage.clickBrandIcon();
-       String pageTitleAfterRedirection = homePage.getPageTitle();
+        log.info("Clicked on Brand Icon");
+        TestListener.getTest().log(Status.INFO, "===== Clicked on Brand Icon ====");
+        String pageTitleAfterRedirection = homePage.getPageTitle();
+        log.info("Fetched Page Title After Clicking on Brand Icon",pageTitleAfterRedirection);
         Assert.assertTrue(pageTitleAfterRedirection.contains("Best Antivirus for Your PC"),
                 "Title did not contain expected text");
+        TestListener.getTest().log(Status.PASS, "Assertion passed: Current Title matched expected value");
+        log.info("===== Completed verifyClickOnBrandIcon Test =====");
+        TestListener.getTest().log(Status.INFO, "===== Completed verifyClickOnBrandIconTest =====");
     }
-
 }
