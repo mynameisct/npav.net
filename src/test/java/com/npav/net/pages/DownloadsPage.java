@@ -4,6 +4,7 @@ import com.npav.net.page.base.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.JavascriptExecutor;
 
 public class DownloadsPage extends BasePage {
 
@@ -17,7 +18,9 @@ public class DownloadsPage extends BasePage {
 
     public String clickOnDownloads()
     {
-        downloadBtn.click();
+        // Use JavaScriptExecutor instead of normal click
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].click();", downloadBtn);
         String titleforDownload = driver.getTitle();
         return titleforDownload;
     }

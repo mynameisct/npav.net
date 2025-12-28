@@ -12,8 +12,9 @@ public class DownloadsPageTest extends BaseTest
     @Test
     public void  verifyClicktoDownload()
     {
-
         downloadsPage = new DownloadsPage(driver);
+
+        downloadsPage.clickOnDownloads();
 
         String actualTitle = downloadsPage.clickOnDownloads();
 
